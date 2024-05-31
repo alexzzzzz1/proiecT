@@ -1,0 +1,7 @@
+.antet{
+    display:flex;
+}
+.nume{
+        text-align:center;
+        flex:left;
+}
