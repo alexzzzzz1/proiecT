@@ -1,7 +1,31 @@
+header{
+    background-color: lightgray;
+}
 .antet{
     display:flex;
+    justify-content: space-between;
 }
+
 .nume{
         text-align:center;
         flex:left;
+}
+.poza1{
+    margin: 15px;
+}
+.poza2{
+    margin: 15px;
+}
+
+.information{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.main1{
+    display:flex;
+}
+
+.nav{
+
 }
